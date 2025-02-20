@@ -6,7 +6,7 @@ using MovieSeriesReview.ServiceLayer;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<AppDbContext>(options =>options.UseSqlServer("Server=LAPTOP-TIH7GM6J\\MSSQLSERVERCSDL;Database=QLMV;User Id=LAPTOP-TIH7GM6J/Nhan;TrustServerCertificate=True"));
+builder.Services.AddDbContext<AppDbContext>(options =>options.UseSqlServer("Server=LAPTOP-TIH7GM6J\\MSSQLSERVERCSDL;Database=QLMV;User Id=LAPTOP-TIH7GM6J\\Nhan;TrustServerCertificate=True"));
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
