@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SOA-Part4.props" />
+</Project>
