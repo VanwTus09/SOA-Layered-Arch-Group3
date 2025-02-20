@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using MovieSeriesReview.CoreLayer.Interfaces;
 using MovieSeriesReview.DataAccessLayer;
 using MovieSeriesReview.ServiceLayer;
+using MovieSeriesReview.ServiceLayer.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,8 @@ builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<MovieService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+//builder.Services.AddScoped<IMovieService, MovieService>();
 
 var app = builder.Build();
 

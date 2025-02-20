@@ -174,3 +174,14 @@ D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\obj\Debug\net9
 D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\obj\Debug\net9.0\MovieSeriesReview.genruntimeconfig.cache
 D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\obj\Debug\net9.0\ref\MovieSeriesReview.dll
 D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\obj\Debug\net9.0\MovieSeriesReview.sourcelink.json
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\Dapper.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\Dapper.Contrib.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\DataAbstractions.Dapper.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\SQLStoredProcedureCommandsFunctions.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\TTRider.IDbConnection-Async.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bài tập để nộp\MLA\MovieSeriesReview\MovieSeriesReview\bin\Debug\net9.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
