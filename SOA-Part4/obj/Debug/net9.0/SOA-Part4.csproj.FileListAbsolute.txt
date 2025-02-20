@@ -164,3 +164,7 @@ C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\obj\Debug\net9.0\refint\
 C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\obj\Debug\net9.0\SOA-Part4.pdb
 C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\obj\Debug\net9.0\SOA-Part4.genruntimeconfig.cache
 C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\obj\Debug\net9.0\ref\SOA-Part4.dll
+C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\SOA-Onschool\SOA-Part4\SOA-Part4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

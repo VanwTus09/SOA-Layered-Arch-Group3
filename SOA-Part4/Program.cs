@@ -1,28 +1,32 @@
 using Microsoft.EntityFrameworkCore;
 using MovieSeries.DataAccessLayer;
+using MovieSeries.DataAccessLayer.Repositories;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Thêm dịch vụ cho Controller
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
 
-var app = builder.Build();
+// Cấu hình kết nối SQL Server
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(@"Server=TUS-B52;Database=QLMV;User Id=TUS-B52\Admin;TrustServerCertificate=True"));
 
-// Configure the HTTP request pipeline.
+// Thêm Swagger (OpenAPI)
+builder.Services.AddSwaggerGen();
+builder.Services.AddEndpointsApiExplorer();
+
+var app = builder.Build(); // ✅ Gọi Build() sau khi đăng ký toàn bộ service
+
+// Cấu hình Middleware
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
-builder.Services.AddDbContext<AppDbContext>(options =>
 
-options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
