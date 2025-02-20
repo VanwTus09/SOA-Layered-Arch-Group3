@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\movieserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\movieserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\commonlayer\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\commonlayer\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|c:\\users\\admin\\desktop\\soa-onschool\\movieseries\\movieseries\\movieseries\\businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\UserRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:03:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\RatingRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\RatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:00:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:08:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Program.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Program.cs",
+              "RelativeToolTip": "MovieSeries\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:13:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:10:17.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieSeries\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\appsettings.json",
+              "RelativeToolTip": "MovieSeries\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T14:17:18.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:09:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:09:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IRatingService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Interfaces\\IRatingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IRatingService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Interfaces\\IRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:09:42.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\WeatherForecast.cs",
+              "RelativeToolTip": "MovieSeries\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:45:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:10:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Services\\RatingService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\RatingService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Services\\RatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:10:02.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:08:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:02:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:58:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IRatingRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\IRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:57:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:12:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MovieSeries\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\appsettings.Development.json",
+              "RelativeToolTip": "MovieSeries\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T14:17:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:11:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:10:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:20:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieSerie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:41:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MovieSeriesTag.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:42.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:28.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:48.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "RelativeToolTip": "MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:32.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RatingCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SOA-Onschool\\MovieSeries\\MovieSeries\\MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "RelativeToolTip": "MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:05.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
