@@ -1,6 +1,0 @@
-@SOA_Part4_HostAddress = http://localhost:5187
-
-GET {{SOA_Part4_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
