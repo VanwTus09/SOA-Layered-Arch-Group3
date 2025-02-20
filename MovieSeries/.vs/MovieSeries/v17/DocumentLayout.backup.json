@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\dataaccesslayer\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\dataaccesslayer\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\servicelayer\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\servicelayer\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\movieserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\movieserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\repositorylayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\repositorylayer\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\corelayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\corelayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\commonlayer\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\commonlayer\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\movieseries\\movieseries\\movieseries\\businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267D7FA5-1403-4F60-AB37-D535144D7D3E}|MovieSeries\\MovieSeries.csproj|solutionrelative:movieseries\\businesslayer\\ratingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieSerie.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\MovieSerie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:41:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\MovieService.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\MovieService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\MovieService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:29:00.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:20:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Program.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Program.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Program.cs",
+              "RelativeToolTip": "MovieSeries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:13:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:10:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Services\\MovieService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:09:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "MovieSeries\\ServiceLayer\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:09:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:08:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\RepositoryLayer\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:08:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\DataAccessLayer\\MovieRepository.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\MovieRepository.cs*",
+              "RelativeToolTip": "MovieSeries\\DataAccessLayer\\MovieRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:19:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\DataAccessLayer\\AppDbContext.cs*",
+              "RelativeToolTip": "MovieSeries\\DataAccessLayer\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:42.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:28.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieSeriesTag.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "RelativeToolTip": "MovieSeries\\CoreLayer\\Entities\\MovieSeriesTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:18:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MovieSeries\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "RelativeToolTip": "MovieSeries\\CommonLayer\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RatingCalculator.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "RelativeDocumentMoniker": "MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\MovieSeries\\MovieSeries\\MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "RelativeToolTip": "MovieSeries\\BusinessLayer\\RatingCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:17:05.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
